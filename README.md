@@ -7,14 +7,6 @@
 
 FraudShield AI is a machine learning-powered web app that detects **fraudulent credit card transactions** using key features like transaction type, balances, and timing. It is built using **FastAPI** for the backend and **Streamlit** for the frontend.
 
----
-
-## 🚀 Demo
-
-📺 [Live Demo (Optional: Add your deployed URL)](https://your-live-demo-url.com)
-
----
-
 ## 🧠 Tech Stack
 
 | Component    | Tech Used            |
